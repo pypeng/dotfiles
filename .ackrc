@@ -1,0 +1,8 @@
+# Always color, even piping
+--color
+
+# Pager
+#--pager=less -r
+
+# Add .ptl file support
+--type-add=python=.ptl
